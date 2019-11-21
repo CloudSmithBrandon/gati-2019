@@ -4,6 +4,8 @@ Now that we've had a chance to get to know each other, I've got some links and r
 ---
 ## Topics we covered today
 
+### [Download the presentation](https://github.com/CloudSmithBrandon/gati-2019/releases/download/v2019/GATI.2019.pptx)
+
 1. Core elements of today's tech business
 
   - [Infrastructure](https://www.techopedia.com/definition/29199/it-infrastructure)
@@ -33,10 +35,32 @@ Now that we've had a chance to get to know each other, I've got some links and r
   - [The Heist on Scratch](https://scratch.mit.edu/projects/342705048/) - You can even make animations...
   - [Do the Pong Project](https://scratch.mit.edu/projects/10128515/)
   
-## The future of tech
+## Videos you should watch
 
 The future of tech has never been brighter - the world's demand for data, services and robotics will drive an entire generation of new invention and evolution.  These "future tech" trends are next decade's mainstream.
+
+ - [Quantum Supremacy](https://youtu.be/-ZNEzzDcllU)
+ - [Neural Networks](https://youtu.be/bfmFfD2RIcg)
+ - [Elon Musk on Artifical Intelligence](https://youtu.be/Pls_q2aQzHg) 
 
 ## More code
 
 Want to learn to code?  We showed you a little about Scratch, which is awesome.  Here's some other links to get you moving.
+
+ - [code.org](http://www.code.org/)
+ - [Code Academy](http://www.codecademy.com/#!/exercises/0)
+ - [Code Avengers](https://www.codeavengers.com/)
+ - [Tynker](https://www.tynker.com/)
+ - [Code Combat](https://codecombat.com/)
+ - [Kodable](https://www.kodable.com/)
+ - [Stencyl](http://www.stencyl.com/)
+ 
+Are you ready for more challenging coding?  You'll need some software.  Here's the good stuff.
+
+ - [Visual Studio Code](https://code.visualstudio.com/)
+ - [GitHub](https://github.com/)
+ - [Learn Bootstrap](https://www.codecademy.com/learn/learn-bootstrap)
+ - [Javascript on w3schools](https://www.w3schools.com/js/default.asp)
+ - [NodeJs on w3schools](https://www.w3schools.com/nodejs/)
+ - [PluralSight](https://www.pluralsight.com/)
+ - 
